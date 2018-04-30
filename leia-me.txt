@@ -1,0 +1,9 @@
+para iniciar :
+perl day1-framework.pl 
+
+digite 9 para instala as dependencias 
+instale o perl para o script roda 
+
+qualquer erro o duvida me chame no whatss +1(616) 512-3935
+
+nao me responsabilizo por mal uso do script :)
